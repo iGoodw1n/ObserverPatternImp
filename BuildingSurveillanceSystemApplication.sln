@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingSurveillanceSystemApplication", "BuildingSurveillanceSystemApplication\BuildingSurveillanceSystemApplication.csproj", "{2AB664E5-228B-4431-9A5F-45B4913550BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB664E5-228B-4431-9A5F-45B4913550BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB664E5-228B-4431-9A5F-45B4913550BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB664E5-228B-4431-9A5F-45B4913550BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB664E5-228B-4431-9A5F-45B4913550BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9BED499-5C41-4EEC-B580-62E361A8A604}
+	EndGlobalSection
+EndGlobal
